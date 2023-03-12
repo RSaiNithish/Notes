@@ -10,21 +10,15 @@ ___
  - **Minimum degree** of G is the minimum degree among the vertices of G and is denoted $\delta(G)$.
  - **Maximum degree** of G is denoted by $\Delta(G)$
  - If G is a graph of order $n$ and $v$ is any vertex of $G$, then
-$$
-0\leq \delta(G) \leq deg \ v\leq \Delta(G)\leq n-1  
-$$
+$$0\leq \delta(G) \leq deg \ v\leq \Delta(G)\leq n-1$$
 
 ### Theorems
  - **Theorem 2.1**: *if $G$ is a graph of size $m$, then*
-$$
-\sum_{v\in V(G)}deg\ v = 2m
-$$
+$$\sum_{v\in V(G)}deg\ v = 2m$$
 	- Corollary: Every graph has an even number of odd vertices
 
  - **Theorem 2.4**: *Let $G$ be a graph of order $n$, If*
-$$
-deg \ u + deg\ v \ge n-1
-$$
+$$deg \ u + deg\ v \ge n-1$$
 	*for every two non adjacent vertices $u$ and $v$ of $G$, then $G$ is connected and diam($G$) $\le$ 2*
 	 - **Corollary**: *If $G$ is graph of order $n$ with $\delta(G) \ge (n-1)/2$, then $G$ is connected.*
 
