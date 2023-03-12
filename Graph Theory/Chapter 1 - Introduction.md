@@ -37,7 +37,7 @@
  - **Distance**: The smallest length of any $u-v$ path in $G$.
  
 
-### **Observations:
+### Observations:
  - Any proper subgraph of a graph $G$ can be obtaibed by removing vertices and edges from $G$
  - If X is a set of edges of $G$, then $G-X$ is the spanning subgraph of $G$ with $E(G-X)=E(G)-X$
  - If $G$ contains $u-v$ path, then $u$ and $v$ are said to be **connected** and $u$ **is connected to** $v$.
