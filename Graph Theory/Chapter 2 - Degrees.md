@@ -40,10 +40,8 @@ ___
  - A finite set of non-negative integers is called **graphical** if it is a degree sequence of some graph.
 
 ### Theorem
- - **Theorem 2.10**: *A non-increasing sequence $s$ : $d_1 ,d_2 , ..., d_n\ (n\ge2)$ of non-negative integers, where $d_1\ge1$, is graphical iff the sequence*
-$$
-s_1 : d_2 -1,d_3 - 1,...,d_{d_1 +1} - 1,d_{d_1 +2},...,d_n
-$$
+ - **Theorem 2.10**: *A non-increasing sequence $s : d_1 ,d_2 , ..., d_n\ (n\ge2)$ of non-negative integers, where $d_1\ge1$, is graphical iff the sequence*
+$$s_1 : d_2 -1,d_3 - 1,...,d_{d_1 +1} - 1,d_{d_1 +2},...,d_n$$
 	*is graphical.*
 
 ___
