@@ -44,11 +44,11 @@
  - Every graph is the union of its components
 
 ### Theorems:
- 1. *If a graph $G$ contains a $u-v$ walk of length $l$, then $G$ contains a $u-l$ path of length at most $l$.
+ 1. *If a graph $G$ contains a $u-v$ walk of length $l$, then $G$ contains a $u-l$ path of length at most $l$.*
  2. *Let $R$ be the relation defined on the vertex set of a graph $G$ by $u\ R\ v$, where $u, v ∈ V(G)$, if $u$ is connected to $v$, that is, if G contains a $u − v$ path. Then $R$ is an equivalence relation.*
  3. *Let $G$ be a graph of order 3 or more. If $G$ contains two distinct vertices $u$ and $v$ such that $G − u$ and $G − v$ are connected, then $G$ itself is connected.*
  4. *If $G$ is a connected graph of order 3 or more, then $G$ contains two distinct vertices $u$ and $v$ such that $G-u$ and $G-v$ are connected.*
- 5. Let $G$ be a graph of order 3 or more. Then $G$ is connected iff $G$ contains two distinct vertices $u$ and $v$ such that $G-u$ and $G-v$ are connected.
+ 5. *Let $G$ be a graph of order 3 or more. Then $G$ is connected iff $G$ contains two distinct vertices $u$ and $v$ such that $G-u$ and $G-v$ are connected.*
 
 ## 1.4 Multigraphs and Digraphs
 
