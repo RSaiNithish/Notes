@@ -64,12 +64,14 @@ Cloud computing is a model of computing that involves the delivery of computing 
 | Security             | High            | Medium                   | High               | High                  | High                 |
 | Management Complexity | High           | Medium                   | Low                | Medium                | Low                  |
 | Examples             | SETI@home       | BitTorrent, Hadoop       | Beowulf cluster    | Amazon EC2, Azure     | Amazon Web Services, Microsoft Azure, Google Cloud Platform  |
+___
 
 ## Cloud Definition
  - **O** - On Demand
  - **S** - Self Service
  - **S** - Scalable
  - **M** - Measured
+___
 
 ## Could Computing models:
  - **Software as a Service** (SaaS) 
@@ -97,7 +99,6 @@ Cloud computing is a model of computing that involves the delivery of computing 
 | Flexibility  | Limited by vendor application | Moderate flexibility for application development | High flexibility for infrastructure customization |
 | Examples     | Salesforce, Google Apps | Heroku, OpenShift | Amazon Web Services, Microsoft Azure |
 
-![[Pasted image 20230315092105.png]]
 
 ### Hosting Models:
  - **Public**
@@ -108,6 +109,7 @@ Cloud computing is a model of computing that involves the delivery of computing 
  - **Hybrid**
 	 - Mixed usage of private and public clouds
 	 - Leasing public cloud services when private cloud capacity is insufficient
+___
 
 ## Cloud computing
 
