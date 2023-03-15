@@ -1,8 +1,7 @@
 
 ## Cloud reference model
-![[Pasted image 20230315121716.png]]
 
-![[Pasted image 20230315092105.png]]l
+
 ## Could Computing models:
  - **Software as a Service** (SaaS) 
 	 - Software applications are delivered over the internet
@@ -14,14 +13,15 @@
 	 - PaaS provider manages the infrastructure, operating system, and middleware.
 	 - User is responsible for managing the application code and data.
 	 - Examples: Google App Engine, Heroku, and Microsoft Azure.
-	 ![[Pasted image 20230315121903.png]]
+	 
 	 
  - **Infrastructure as a Service** (IaaS)
 	 - Cloud provider delivers computing infrastructure, including servers, storage, and networking, as a service over the internet.
 	 - User is responsible for managing the operating system, middleware, and applications
 	 - IaaS provider manages the underlying infrastructure.
 	 - Examples: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
-![[Pasted image 20230315121926.png]]
+
+
 | Feature      | SaaS          | PaaS          | IaaS          |
 |--------------|---------------|---------------|---------------|
 | Definition   | Software as a Service | Platform as a Service | Infrastructure as a Service |
